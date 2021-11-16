@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUxeoiDpF68gaxWQkfWz0+5oXQg/M7Ujt/oBeIHGsVQFqzdeiTp7/lK0ORNra07EV6tsxug+aure3y4cdS8DbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BluezyBreeze\\Desktop\\PFMS\\pfm-system\\backend\\pfmservice\\pfmservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BluezyBreeze\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\BluezyBreeze\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\BluezyBreeze\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\BluezyBreeze\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\BluezyBreeze\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\BluezyBreeze\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

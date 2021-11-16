@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BluezyBreeze\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BluezyBreeze\\.nuget\\packages"
+    ]
+  }
+}
